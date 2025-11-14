@@ -14,7 +14,7 @@ using Codewars;
 
 namespace Codewars_csharp
 {
-    public class Tests
+    public class CodeWarsHellsKitchenTest
     {
         [SetUp]
         public void Setup()
